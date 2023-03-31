@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeuiBalzor", "WeuiBalzor\WeuiBalzor.csproj", "{D816659A-5484-434A-BD27-AE3509E40A4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeuiBlazor.Components", "WeuiBlazor.Components\WeuiBlazor.Components.csproj", "{128E26A8-B094-4D88-8718-D788243D766A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeuiBalzor.Server", "WeuiBalzor\Server\WeuiBalzor.Server.csproj", "{50FDD9F8-685C-42BD-9F87-82F18752E260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeuiBalzor.Client", "WeuiBalzor\Client\WeuiBalzor.Client.csproj", "{EFCB2C37-700C-4449-ACBF-E0413FAF071A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeuiBalzor.Shared", "WeuiBalzor\Shared\WeuiBalzor.Shared.csproj", "{A737948D-C883-4B0D-82F9-1036D067632A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D816659A-5484-434A-BD27-AE3509E40A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D816659A-5484-434A-BD27-AE3509E40A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D816659A-5484-434A-BD27-AE3509E40A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D816659A-5484-434A-BD27-AE3509E40A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128E26A8-B094-4D88-8718-D788243D766A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128E26A8-B094-4D88-8718-D788243D766A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128E26A8-B094-4D88-8718-D788243D766A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128E26A8-B094-4D88-8718-D788243D766A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FDD9F8-685C-42BD-9F87-82F18752E260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FDD9F8-685C-42BD-9F87-82F18752E260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FDD9F8-685C-42BD-9F87-82F18752E260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FDD9F8-685C-42BD-9F87-82F18752E260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCB2C37-700C-4449-ACBF-E0413FAF071A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCB2C37-700C-4449-ACBF-E0413FAF071A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCB2C37-700C-4449-ACBF-E0413FAF071A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCB2C37-700C-4449-ACBF-E0413FAF071A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A737948D-C883-4B0D-82F9-1036D067632A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A737948D-C883-4B0D-82F9-1036D067632A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A737948D-C883-4B0D-82F9-1036D067632A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A737948D-C883-4B0D-82F9-1036D067632A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
