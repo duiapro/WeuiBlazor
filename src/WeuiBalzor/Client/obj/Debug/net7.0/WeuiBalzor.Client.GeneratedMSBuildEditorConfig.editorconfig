@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/vsApp/WeuiBlazor/src/WeuiBalzor/Client/Components/Tabbar/WTabbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUYWJiYXJcV1RhYmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/vsApp/WeuiBlazor/src/WeuiBalzor/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

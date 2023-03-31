@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WeuiBalzor.Server.props" />
+</Project>

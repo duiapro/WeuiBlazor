@@ -1,0 +1,12 @@
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\bin\Debug\net7.0\WeuiBalzor.Shared.deps.json
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\bin\Debug\net7.0\WeuiBalzor.Shared.dll
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\bin\Debug\net7.0\WeuiBalzor.Shared.pdb
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.csproj.AssemblyReference.cache
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.AssemblyInfoInputs.cache
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.AssemblyInfo.cs
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.csproj.CoreCompileInputs.cache
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.dll
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\refint\WeuiBalzor.Shared.dll
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\WeuiBalzor.Shared.pdb
+D:\vsApp\WeuiBlazor\src\WeuiBalzor\Shared\obj\Debug\net7.0\ref\WeuiBalzor.Shared.dll
